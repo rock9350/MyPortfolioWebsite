@@ -9,7 +9,7 @@ const Resume = () => {
     <div id="resume">
       <div className="download">
         <a
-          href="https://drive.google.com/file/d/10-gK_nhwfhPxUk7ZVjvE4rAyM6UHX8Mj/view?usp=sharing"
+          href="https://drive.google.com/file/d/1U7rgGSgk9p0lmnYj5WcdvfcCSY4JLwaY/view?usp=sharing"
           target="_blank"
         >
           <img src={download}></img>Download CV
@@ -21,7 +21,7 @@ const Resume = () => {
       <br />
       <div className="download">
         <a
-          href="https://drive.google.com/file/d/10-gK_nhwfhPxUk7ZVjvE4rAyM6UHX8Mj/view?usp=sharing"
+         href="https://drive.google.com/file/d/1U7rgGSgk9p0lmnYj5WcdvfcCSY4JLwaY/view?usp=sharing"
           target="_blank"
         >
           <img src={download}></img>Download CV
