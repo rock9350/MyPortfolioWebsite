@@ -1,0 +1,85 @@
+#part_2{
+    background-color: #eee;
+    background-image: url(https://demos.creative-tim.com/rubik/assets/img/noise.png);
+    width: 100%;
+    height: 52.5rem;
+}
+#intro{
+    text-align: center;
+    display: flex;
+    height: 65%;
+}
+#left-part{
+  height: 35%;
+  text-align: center;
+}
+
+#left-part>h1{
+  font-size: 2.5rem;
+  font-weight: 500;
+}
+#left-part>p{
+    font-size: 1.0em!important;
+    font-weight: 600;
+
+}
+#left-part>div>ul{
+    display: flex;
+    list-style: none;
+    justify-content: center;
+    margin-right: 37px;
+}
+
+#left-part>div>ul>li{
+    padding: 13px 10px 0px 10px;
+}
+#myself{
+    width: 50%;
+    height: 63.3%;
+    padding: 110px;
+
+}
+
+#myself>div>h1{
+    text-align: center;
+    font-size: xxx-large;
+    font-weight: 400;
+}
+
+#myself>div>p{
+    text-align: start;
+    font-size: 1.2em!important;
+    font-weight: 600;
+}
+
+#pic{
+   width: 30%;
+   background-image: url(../resource/—Pngtree—software\ programming\ concept\ in\ 3d_7601731.png);
+   height: 75%;
+   background-size: 100% 100%;
+   position: relative;
+   top: 100px;
+   right: 50px;
+}
+
+.LIGHT{
+    color: gold;
+    /*border white with light shadow*/
+    text-shadow: 
+       2px   0  0   #000, 
+      -2px   0  0   #000, 
+       0    2px 0   #000, 
+       0   -2px 0   #000, 
+       1px  1px 0   #000, 
+      -1px -1px 0   #000, 
+       1px -1px 0   #000, 
+      -1px  1px 0   #000,
+       1px  1px 0px #000;
+}
+
+
+@media only screen and (max-width: 768px) { 
+    #part_2{
+        /* width: 144.9%; */
+    }
+} 

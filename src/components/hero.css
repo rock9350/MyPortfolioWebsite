@@ -1,0 +1,25 @@
+ #sec{
+    font-size: xx-large;
+    text-align: initial;
+    font-weight: 400;
+    text-shadow: 
+    1px  1px     #fff, 
+   -1px  1px     #fff, 
+    1px -1px     #fff, 
+   -1px -1px     #fff,
+    1px  1px 5px #555;
+    padding: 170px 0px 0px 70px;
+}
+
+#gif{
+    margin: 33% 0% 0% 95%;
+}
+
+@media only screen and (min-width: 768px) { 
+
+  } 
+  
+  @media only screen and (min-width: 1024px) {
+  
+  } 
+  

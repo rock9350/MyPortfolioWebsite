@@ -1,0 +1,14 @@
+#project{
+    width: 100%;
+    height: auto;
+    padding-top: 100px;
+}
+#project-first{
+    text-align: center;
+}
+
+#project-detail{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
